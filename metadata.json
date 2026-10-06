@@ -1,0 +1,6 @@
+{
+  "name": "PropertyOS - Luxury Property Portfolio Operating System",
+  "description": "One intelligent command center for your entire property portfolio with 3D digital twins and AI analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
